@@ -30,7 +30,7 @@ I have taken on this project to better understand about a process of data analys
 
 ### Power BI Dashboard
 The dashboard has been published into Power BI service:
-[Pizza Sales Analysis](https://app.powerbi.com/links/P4ouJCUwxA?ctid=af1f3753-3925-4e6f-949b-97c007320803&pbi_source=linkShare)
+[Pizza Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiM2VjMTA2ZGQtYWIyNy00MWI1LTljYjgtMzc2ODBiMWFmMGFhIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D)
 
 ## Contact
 * Email: [nguyenngoclinh.atc@gmail.com](nguyenngoclinh.atc@gmail.com)
